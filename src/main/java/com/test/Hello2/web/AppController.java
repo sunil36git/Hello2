@@ -1,4 +1,4 @@
-package com.test.Hello1.web;
+package com.test.Hello2.web;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

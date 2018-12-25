@@ -1,4 +1,4 @@
-package com.test.Hello1.domain;
+package com.test.Hello2.domain;
 
 import org.springframework.stereotype.Component;
 
