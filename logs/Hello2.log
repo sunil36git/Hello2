@@ -1,0 +1,63 @@
+[INFO ] 2018-12-25 15:30:03.716 [main] Hello1 - Starting Hello1 on EZ-C1JN0N2 with PID 16348 (C:\TEST_EORKSPACE\Hello2\target\classes started by skumar in C:\TEST_EORKSPACE\Hello2)
+[INFO ] 2018-12-25 15:30:03.720 [main] Hello1 - No active profile set, falling back to default profiles: default
+[INFO ] 2018-12-25 15:30:05.662 [main] Hello1 - Started Hello1 in 2.177 seconds (JVM running for 3.141)
+[INFO ] 2018-12-25 15:30:25.298 [http-nio-9002-exec-1] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:30:25.298 [http-nio-9002-exec-1] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:30:25.298 [http-nio-9002-exec-1] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:47:25.100 [main] Hello1 - Starting Hello1 on EZ-C1JN0N2 with PID 9864 (C:\TEST_EORKSPACE\Hello2\target\classes started by skumar in C:\TEST_EORKSPACE\Hello2)
+[INFO ] 2018-12-25 15:47:25.104 [main] Hello1 - No active profile set, falling back to default profiles: default
+[INFO ] 2018-12-25 15:47:26.965 [main] Hello1 - Started Hello1 in 2.086 seconds (JVM running for 3.058)
+[INFO ] 2018-12-25 15:52:33.812 [main] Hello1 - Starting Hello1 on EZ-C1JN0N2 with PID 13496 (C:\TEST_EORKSPACE\Hello2\target\classes started by skumar in C:\TEST_EORKSPACE\Hello2)
+[INFO ] 2018-12-25 15:52:33.819 [main] Hello1 - No active profile set, falling back to default profiles: default
+[INFO ] 2018-12-25 15:52:35.963 [main] Hello1 - Started Hello1 in 2.441 seconds (JVM running for 3.477)
+[INFO ] 2018-12-25 15:53:43.056 [main] Hello1 - Starting Hello1 on EZ-C1JN0N2 with PID 15232 (C:\TEST_EORKSPACE\Hello2\target\classes started by skumar in C:\TEST_EORKSPACE\Hello2)
+[INFO ] 2018-12-25 15:53:43.067 [main] Hello1 - No active profile set, falling back to default profiles: default
+[INFO ] 2018-12-25 15:53:44.931 [main] Hello1 - Started Hello1 in 2.09 seconds (JVM running for 3.182)
+[INFO ] 2018-12-25 15:54:15.018 [http-nio-9002-exec-1] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:54:15.018 [http-nio-9002-exec-1] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:54:15.018 [http-nio-9002-exec-1] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:54:24.518 [http-nio-9002-exec-3] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:54:24.518 [http-nio-9002-exec-3] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:54:24.518 [http-nio-9002-exec-3] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:54:25.761 [http-nio-9002-exec-4] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:54:25.761 [http-nio-9002-exec-4] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:54:25.761 [http-nio-9002-exec-4] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:54:27.736 [http-nio-9002-exec-5] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:54:27.737 [http-nio-9002-exec-5] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:54:27.737 [http-nio-9002-exec-5] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:54:32.809 [http-nio-9002-exec-6] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:54:32.809 [http-nio-9002-exec-6] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:54:32.809 [http-nio-9002-exec-6] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:54:43.139 [http-nio-9002-exec-7] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:54:43.139 [http-nio-9002-exec-7] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:54:43.139 [http-nio-9002-exec-7] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:57:08.393 [main] Hello1 - Starting Hello1 on EZ-C1JN0N2 with PID 12720 (C:\TEST_EORKSPACE\Hello2\target\classes started by skumar in C:\TEST_EORKSPACE\Hello2)
+[INFO ] 2018-12-25 15:57:08.396 [main] Hello1 - No active profile set, falling back to default profiles: default
+[INFO ] 2018-12-25 15:57:10.240 [main] Hello1 - Started Hello1 in 2.079 seconds (JVM running for 3.046)
+[INFO ] 2018-12-25 15:57:24.469 [http-nio-9002-exec-1] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:57:24.469 [http-nio-9002-exec-1] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:57:24.469 [http-nio-9002-exec-1] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:57:38.031 [http-nio-9002-exec-4] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:57:38.031 [http-nio-9002-exec-4] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:57:38.031 [http-nio-9002-exec-4] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 15:57:40.945 [http-nio-9002-exec-5] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 15:57:40.946 [http-nio-9002-exec-5] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 15:57:40.946 [http-nio-9002-exec-5] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 16:00:43.887 [http-nio-9002-exec-3] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 16:00:43.887 [http-nio-9002-exec-3] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 16:00:43.888 [http-nio-9002-exec-3] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 16:00:44.734 [http-nio-9002-exec-7] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 16:00:44.734 [http-nio-9002-exec-7] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 16:00:44.734 [http-nio-9002-exec-7] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 16:00:44.957 [http-nio-9002-exec-8] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 16:00:44.957 [http-nio-9002-exec-8] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 16:00:44.958 [http-nio-9002-exec-8] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 16:00:45.173 [http-nio-9002-exec-9] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 16:00:45.174 [http-nio-9002-exec-9] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 16:00:45.174 [http-nio-9002-exec-9] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 16:00:45.402 [http-nio-9002-exec-10] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 16:00:45.403 [http-nio-9002-exec-10] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 16:00:45.403 [http-nio-9002-exec-10] DataService - Sending greeting from Service.getGreeting method.
+[INFO ] 2018-12-25 16:01:06.667 [http-nio-9002-exec-2] AppController - Request received for name...sunil
+[INFO ] 2018-12-25 16:01:06.668 [http-nio-9002-exec-2] AppController - Response sent for name...sunil
+[INFO ] 2018-12-25 16:01:06.668 [http-nio-9002-exec-2] DataService - Sending greeting from Service.getGreeting method.
