@@ -1,0 +1,5 @@
+com\test\Hello2\Service\DataService.class
+com\test\Hello2\Hello1.class
+com\test\Hello2\web\AppController.class
+com\test\Hello2\domain\ErrorMessage.class
+com\test\Hello2\ExceptionHandlerclass.class
