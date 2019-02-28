@@ -1,6 +1,9 @@
 package com.test.Hello2.Service;
 
 
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.springframework.beans.factory.annotation.Value;
@@ -25,10 +28,11 @@ public class DataService {
 	 * @param msg
 	 *            A variable of type String.
 	 * @return String
+	 * @throws UnknownHostException 
 	 */
-	public String getGreeting() {
+	public String getGreeting() throws UnknownHostException {
 		logger.info("Sending greeting from Service.getGreeting method.");
-		return hello_msg;
+		return "("+hello_msg+ "< IP : "+InetAddress.getLocalHost()+ " >";
 	}
 
 }
